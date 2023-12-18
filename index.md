@@ -29,7 +29,7 @@ layout: home
   transform: translate(-50%, -50%);
 }
 
-      h1 {
+h1 {
   font-size: 40px;
 }
 
