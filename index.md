@@ -9,10 +9,6 @@ layout: home
 ---
 <html>
   <head>
-     <link rel="shortcut icon" type="image/png" href="IMG_0269.png">
-    <link rel="icon" href="/IMG_0269.png" type="image/png">
-    <link rel="mask-icon" href="IMG_0269.png?v=M44lzPylqQ" 
- color="#000000">
     <style>
 .container { 
   height: 600px;
