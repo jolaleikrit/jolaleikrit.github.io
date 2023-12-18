@@ -48,7 +48,5 @@ p {
   </div>
 </div>
     <title>Jólaleikrit</title>
-    <p>&#169;2023 KKEE & Grey's Studios</p>
-    <p>Last Updated 15. Dec. 2023 13:58</p>
   </head>
 </html>
