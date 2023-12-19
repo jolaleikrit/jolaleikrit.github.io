@@ -4,15 +4,6 @@ title: Um síðuna
 permalink: /um-siduna/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Þetta er síða Jólaleikrits Vesturbæjarskóla 2023.
+Á aðal síðunni getið þið fundið allskonar m.a. Um jólaleikritið, Handritsýnishorn, Leikarana o.s.f.
+Þið getið komist á aðal síðuna með því að skrá ykkur inn.
