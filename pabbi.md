@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Um síðuna
-permalink: /um-siduna/
+title: Pabbi
+permalink: /pabbi/
 ---
 
 Pabbi er cool
